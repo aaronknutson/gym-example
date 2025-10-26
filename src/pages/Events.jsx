@@ -154,7 +154,7 @@ function Events() {
             <input
               type="email"
               placeholder="Enter your email"
-              className="flex-1 px-4 py-3 rounded text-gray-900"
+              className="flex-1 px-4 py-3 rounded bg-white text-gray-900"
             />
             <button className="bg-red-600 px-6 py-3 rounded hover:bg-red-700 transition font-bold">
               Subscribe
