@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Black background -->
+  <rect width="32" height="32" fill="#000000"/>
+
+  <!-- Red martial arts fist -->
+  <g fill="#DC2626" stroke="#EF4444" stroke-width="0.5">
+    <!-- Thumb -->
+    <path d="M 10 18 Q 9 17 9 15.5 Q 9 14 10 13 L 11 13 Q 12 14 12 15.5 Q 12 17 11 18 Z"/>
+
+    <!-- Index finger -->
+    <path d="M 13 11 Q 12.5 10 12.5 8.5 Q 12.5 7 13.5 6 L 14.5 6 Q 15.5 7 15.5 8.5 Q 15.5 10 15 11 Z"/>
+
+    <!-- Middle finger -->
+    <path d="M 16 10 Q 15.5 9 15.5 7 Q 15.5 5 16.5 4 L 17.5 4 Q 18.5 5 18.5 7 Q 18.5 9 18 10 Z"/>
+
+    <!-- Ring finger -->
+    <path d="M 19 11 Q 18.5 10 18.5 8.5 Q 18.5 7 19.5 6 L 20.5 6 Q 21.5 7 21.5 8.5 Q 21.5 10 21 11 Z"/>
+
+    <!-- Pinky finger -->
+    <path d="M 22 12 Q 21.5 11 21.5 9.5 Q 21.5 8 22.5 7 L 23.5 7 Q 24 8 24 9.5 Q 24 11 23.5 12 Z"/>
+
+    <!-- Palm -->
+    <path d="M 11 13 L 12 11 L 15 11 L 18 10 L 21 11 L 23.5 12 Q 25 13 25 15 Q 25 17 24 19 Q 23 21 21 22 L 12 22 Q 10 21 9 19 Q 8 17 8 15 Q 8 13.5 9.5 12.5 Z"/>
+
+    <!-- Knuckle details -->
+    <circle cx="13.5" cy="12" r="0.8" fill="#B91C1C" opacity="0.6"/>
+    <circle cx="16.5" cy="11.5" r="0.8" fill="#B91C1C" opacity="0.6"/>
+    <circle cx="19.5" cy="12" r="0.8" fill="#B91C1C" opacity="0.6"/>
+    <circle cx="22.5" cy="13" r="0.8" fill="#B91C1C" opacity="0.6"/>
+  </g>
+
+  <!-- Highlight for dimension -->
+  <g fill="none" stroke="#F87171" stroke-width="0.5" opacity="0.4">
+    <path d="M 13 19 Q 16 18 19 19"/>
+    <path d="M 12 16 Q 16.5 15.5 21 16"/>
+  </g>
+</svg>
